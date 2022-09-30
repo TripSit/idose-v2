@@ -1,1 +1,1 @@
-# idose-v2
+# iDose v2 

@@ -1,0 +1,232 @@
+[
+    {
+        "abbr": "mcg",
+        "measure": "mass",
+        "system": "metric",
+        "singular": "Microgram",        "plural": "Micrograms"
+    },
+    {
+        "abbr": "mg",
+        "measure": "mass",
+        "system": "metric",
+        "singular": "Milligram",
+        "plural": "Milligrams"
+    },
+    {
+        "abbr": "g",
+        "measure": "mass",
+        "system": "metric",
+        "singular": "Gram",
+        "plural": "Grams"
+    },
+    {
+        "abbr": "kg",
+        "measure": "mass",
+        "system": "metric",
+        "singular": "Kilogram",
+        "plural": "Kilograms"
+    },
+    {
+        "abbr": "mt",
+        "measure": "mass",
+        "system": "metric",
+        "singular": "Metric Tonne",
+        "plural": "Metric Tonnes"
+    },
+    {
+        "abbr": "oz",
+        "measure": "mass",
+        "system": "imperial",
+        "singular": "Ounce",
+        "plural": "Ounces"
+    },
+    {
+        "abbr": "lb",
+        "measure": "mass",
+        "system": "imperial",
+        "singular": "Pound",
+        "plural": "Pounds"
+    },
+    {
+        "abbr": "t",
+        "measure": "mass",
+        "system": "imperial",
+        "singular": "Ton",
+        "plural": "Tons"
+    },
+    {
+        "abbr": "mm3",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Cubic Millimeter",
+        "plural": "Cubic Millimeters"
+    },
+    {
+        "abbr": "cm3",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Cubic Centimeter",
+        "plural": "Cubic Centimeters"
+    },
+    {
+        "abbr": "ml",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Millilitre",
+        "plural": "Millilitres"
+    },
+    {
+        "abbr": "cl",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Centilitre",
+        "plural": "Centilitres"
+    },
+    {
+        "abbr": "dl",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Decilitre",
+        "plural": "Decilitres"
+    },
+    {
+        "abbr": "l",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Litre",
+        "plural": "Litres"
+    },
+    {
+        "abbr": "kl",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Kilolitre",
+        "plural": "Kilolitres"
+    },
+    {
+        "abbr": "m3",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Cubic meter",
+        "plural": "Cubic meters"
+    },
+    {
+        "abbr": "km3",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Cubic kilometer",
+        "plural": "Cubic kilometers"
+    },
+    {
+        "abbr": "krm",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Matsked",
+        "plural": "Matskedar"
+    },
+    {
+        "abbr": "tsk",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Tesked",
+        "plural": "Teskedar"
+    },
+    {
+        "abbr": "msk",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Matsked",
+        "plural": "Matskedar"
+    },
+    {
+        "abbr": "kkp",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Kaffekopp",
+        "plural": "Kaffekoppar"
+    },
+    {
+        "abbr": "glas",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Glas",
+        "plural": "Glas"
+    },
+    {
+        "abbr": "kanna",
+        "measure": "volume",
+        "system": "metric",
+        "singular": "Kanna",
+        "plural": "Kannor"
+    },
+    {
+        "abbr": "tsp",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Teaspoon",
+        "plural": "Teaspoons"
+    },
+    {
+        "abbr": "Tbs",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Tablespoon",
+        "plural": "Tablespoons"
+    },
+    {
+        "abbr": "in3",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Cubic inch",
+        "plural": "Cubic inches"
+    },
+    {
+        "abbr": "fl-oz",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Fluid Ounce",
+        "plural": "Fluid Ounces"
+    },
+    {
+        "abbr": "cup",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Cup",
+        "plural": "Cups"
+    },
+    {
+        "abbr": "pnt",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Pint",
+        "plural": "Pints"
+    },
+    {
+        "abbr": "qt",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Quart",
+        "plural": "Quarts"
+    },
+    {
+        "abbr": "gal",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Gallon",
+        "plural": "Gallons"
+    },
+    {
+        "abbr": "ft3",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Cubic foot",
+        "plural": "Cubic feet"
+    },
+    {
+        "abbr": "yd3",
+        "measure": "volume",
+        "system": "imperial",
+        "singular": "Cubic yard",
+        "plural": "Cubic yards"
+    }
+]

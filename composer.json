@@ -1,0 +1,24 @@
+{
+    "name": "spr1t3-0/atomar",
+    "description": "A framework i use to create small web applications",
+    "type": "project",
+    "license": "wtfpl",
+    "authors": [
+        {
+            "name": "Glitch",
+            "email": "malekschuhmann@riseup.net"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6",
+        "smarty/smarty": "^4.2",
+        "twbs/bootstrap": "^5.2"
+    },
+    "scripts": {
+        "post-update-cmd": [
+            "rm -rf public/assets/bootstrap",
+            "cp -R vendor/twbs/bootstrap/dist public/assets/bootstrap"
+        ]
+    }
+
+}
